@@ -2,7 +2,7 @@
   "name": "medical-practice-website",
   "version": "1.0.1",
   "private": true,
-  "homepage": "https://rakeshniirzari1.github.io/medicalpractice",
+  "homepage": "https://rakeshniirzari1.github.io/medicalpractice2",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
